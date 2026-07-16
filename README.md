@@ -1,6 +1,5 @@
 # Myntra-E-commerce-Analytics-Dashboard
 
-# Myntra Fashion Retail — Data Analysis Project
 
 End-to-end data analysis project on a Myntra fashion retail dataset (50,000 orders), covering SQL, Python (EDA), and Power BI.
 
